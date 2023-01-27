@@ -12,7 +12,7 @@ public class sellniumIntroduction  {
 		// Invoking Browser.
 		
 		//webdriver.chrome.driver--->will take the path of chrome.exe
-		System.setProperty("webdriver.chrome.driver", "C://Users//SANDGHOS//OneDrive - Capgemini//Desktop//Selenium//Browser Driver//chromedriver_win32/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C://Users//Desktop//Selenium//Browser Driver//chromedriver_win32/chromedriver.exe");
 		
 		
 		// ChromeBrowser-->ChromeDriver
